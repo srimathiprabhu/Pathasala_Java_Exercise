@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArmstrongNumbersTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-07-02T02:38:37" hostname="Srimathis-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="threeDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.003"/>
+  <testcase name="sevenDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0"/>
+  <testcase name="noTwoDigitArmstrongNumbers" classname="ArmstrongNumbersTest" time="0.0"/>
+  <testcase name="singleDigitsAreArmstrongNumbers" classname="ArmstrongNumbersTest" time="0.0"/>
+  <testcase name="zeroIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0"/>
+  <testcase name="sevenDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0"/>
+  <testcase name="fourDigitNumberIsNotArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0"/>
+  <testcase name="fourDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0"/>
+  <testcase name="threeDigitNumberIsArmstrongNumber" classname="ArmstrongNumbersTest" time="0.0"/>
+  <system-out><![CDATA[1
+9864574
+1
+5
+0
+9926315
+9843
+9474
+153
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
